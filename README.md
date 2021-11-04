@@ -1,10 +1,10 @@
    # Hello there           
  
-Olá, me chamo Maria Meir, tenho 23 anos. Estou na caminhada para me tornar uma programadora web. :computer:
+Olá, me chamo Maria Meir, tenho 23 anos. Estou na caminhada para me tornar uma programadora web/mobile. :computer:
 
  - :round_pushpin: Manaus, Amazonas
  - :dog2: Mãe de pet
- - :seedling: Atualmente estudando PHP e Laravel
+ - :seedling: Atualmente estudando Flutter/Dart
 
 "I smile to show the pressure of heroes and to trick the fear inside of me." 
 
