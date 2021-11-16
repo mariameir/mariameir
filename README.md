@@ -4,7 +4,7 @@ Olá, me chamo Maria Meir, tenho 23 anos. Estou na caminhada para me tornar uma 
 
  - :round_pushpin: Manaus, Amazonas
  - :dog2: Mãe de pet
- - :seedling: Atualmente estudando Flutter/Dart
+ - :seedling: Atualmente estudando Flutter/Dart, TypeScript e REACT
 
 
 ### Minhas stacks:
