@@ -1,4 +1,4 @@
-   # Hello there           
+   # Hello there!           
  
 Olá, me chamo Maria Meir, tenho 24 anos. Estou na caminhada para me tornar uma programadora web/mobile. :computer:
 
