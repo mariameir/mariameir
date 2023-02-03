@@ -19,4 +19,5 @@ Programação Web
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariameir&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
+   
 ![snake gif](https://github.com/mariameir/mariameir/blob/output/github-contribution-grid-snake.gif)
