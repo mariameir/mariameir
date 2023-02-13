@@ -8,7 +8,6 @@ Olá, me chamo Maria Meir, tenho 24 anos. Estou na caminhada para me tornar uma 
 
 
 ### Minhas stacks:
-Programação Web
 
 ![enter image description here](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![enter image description here](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
