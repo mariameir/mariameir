@@ -20,3 +20,6 @@ Olá, me chamo Maria Meir, tenho 24 anos. Estou na caminhada para me tornar uma 
 <br>
    
 ![snake gif](https://github.com/mariameir/mariameir/blob/output/github-contribution-grid-snake.gif)
+
+[![Linkedin Badge](https://img.shields.io/badge/-mariameir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariameir/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Gmail Badge](https://img.shields.io/badge/-pigyarx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pigyarx@gmail.com)](mailto:pigyarx@gmail.com)
