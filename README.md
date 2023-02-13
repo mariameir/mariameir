@@ -1,6 +1,6 @@
    # Hello there!           
  
-Olá, me chamo Maria Meir, tenho 24 anos. Estou na caminhada para me tornar uma programadora web/mobile. :computer:
+Olá, me chamo Maria Meir, tenho 24 anos. Estou na caminhada para me tornar uma programadora Front-end . :computer:
 
  - :round_pushpin: Manaus, Amazonas
  - :dog2: Mãe de pet
